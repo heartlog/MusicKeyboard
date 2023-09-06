@@ -11,7 +11,8 @@ sounds_list_onpress = []
 def list_files(folder_path, sound_list):
     for filename in os.listdir(folder_path):
         if filename.endswith(".wav"):
-            sound_list.append(filename)
+            full_path = os.path.join(folder_path, filename)
+            sound_list.append(full_path)
 
 def play_random_sound(sounds):
     try:
