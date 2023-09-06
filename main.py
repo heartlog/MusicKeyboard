@@ -1,7 +1,5 @@
 import os
-
 from pynput.keyboard import Key, Listener
-
 import winsound
 import random
 
