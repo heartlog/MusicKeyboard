@@ -14,7 +14,7 @@ pip install pynput
 
 ## Usage
 
-```py
+```shell
 ## Clone the MusicKeyboard repository to your local machine:
 git clone https://github.com/your-username/MusicKeyboard.git
 
@@ -28,7 +28,7 @@ Open the `main.py` file in a text editor and modify the key combination to exit 
 
 ## Run the program
 
-```py
+```shell
 python main.py
 ```
 
