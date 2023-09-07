@@ -24,6 +24,25 @@ cd MusicKeyboard
 
 Create two folders named `"sounds"` and `"sounds_release"` in the project folder. Place your sound files (in .wav format) in the respective folders. Make sure the files have the **.wav extension** .
 
+### Directory tree
+
+```shell
+E:.
+└───Musickeyboard
+    │   main.py
+    │   README.md
+    │   requirements.txt
+    │
+    ├───sounds
+    │       mixkit-arcade-retro-game-over-213.wav
+    │       mixkit-crowd-laugh-424.wav
+    │       ...(Your files)
+    │
+    └───sounds_release
+            mixkit-retro-game-notification-212.wav
+            ...(Your files)
+```
+
 Open the `main.py` file in a text editor and modify the key combination to exit the program if needed. By default, the program will exit when the `Esc` key is pressed.
 
 ## Run the program
