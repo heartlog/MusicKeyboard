@@ -16,7 +16,7 @@ pip install pynput
 
 ```shell
 ## Clone the MusicKeyboard repository to your local machine:
-git clone https://github.com/your-username/MusicKeyboard.git
+git clone https://github.com/heartlog/MusicKeyboard.git
 
 # Navigate to the project folder:
 cd MusicKeyboard
@@ -28,7 +28,7 @@ Create two folders named `"sounds"` and `"sounds_release"` in the project folder
 
 ```shell
 E:.
-└───Musickeyboard
+└───MusicKeyboard
     │   main.py
     │   README.md
     │   requirements.txt
