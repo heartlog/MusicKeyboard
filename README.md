@@ -22,7 +22,7 @@ git clone https://github.com/your-username/MusicKeyboard.git
 cd MusicKeyboard
 ```
 
-Create two folders named `"sounds"` and `"sounds_release"` in the project folder. Place your sound files (in .wav format) in the respective folders. Make sure the files have the __.wav extension__ .
+Create two folders named `"sounds"` and `"sounds_release"` in the project folder. Place your sound files (in .wav format) in the respective folders. Make sure the files have the <u>.wav extension</u> .
 
 Open the `main.py` file in a text editor and modify the key combination to exit the program if needed. By default, the program will exit when the `Esc` key is pressed.
 
